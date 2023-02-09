@@ -29,3 +29,5 @@ console.log(toArgList({id: 'myId', other: 42 })); // [ 'myId', 42 ]
 
 // this is parsable !
 parse(normalized);
+
+npm install pgsql-parser
